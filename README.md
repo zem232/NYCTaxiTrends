@@ -1,5 +1,5 @@
 # NYCTaxiTrends
-Performing spatial joins with PySpark on NYC Taxi data to determine what to determine the top 3 origin neighborhoods for each borough.
+Performing spatial joins with PySpark on NYC Taxi data to determine the top 3 origin neighborhoods for each borough.
 
 
 ## Data
